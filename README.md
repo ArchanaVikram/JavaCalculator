@@ -24,5 +24,3 @@ Includes features like decimal input, clear, backspace, and sign toggle.
     java JavaSwingCalculator
     ```
 6. The calculator window will appear, and you can use it with mouse.
-
-Also, do you have a screenshot image or want me to help you create one?
